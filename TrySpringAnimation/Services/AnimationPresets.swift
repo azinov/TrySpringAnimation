@@ -5,9 +5,6 @@
 //  Created by Alexey Zinoviev on 14.06.2023
 //
 	
-
-import UIKit
-
 final class AnimationPresets {
     
     let animationPreset = [
