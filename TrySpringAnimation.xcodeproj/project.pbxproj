@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8A5F44232A3A27D3003E2392 /* AnimationPresets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A5F44222A3A27D3003E2392 /* AnimationPresets.swift */; };
 		8ABB064D2A38FF9F007A98EC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ABB064C2A38FF9F007A98EC /* AppDelegate.swift */; };
 		8ABB064F2A38FF9F007A98EC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ABB064E2A38FF9F007A98EC /* SceneDelegate.swift */; };
 		8ABB06512A38FFA0007A98EC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ABB06502A38FFA0007A98EC /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8A5F44222A3A27D3003E2392 /* AnimationPresets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationPresets.swift; sourceTree = "<group>"; };
 		8ABB06492A38FF9F007A98EC /* TrySpringAnimation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TrySpringAnimation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8ABB064C2A38FF9F007A98EC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8ABB064E2A38FF9F007A98EC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 				8ABB06552A38FFA2007A98EC /* Assets.xcassets */,
 				8ABB06572A38FFA2007A98EC /* LaunchScreen.storyboard */,
 				8ABB065A2A38FFA2007A98EC /* Info.plist */,
+				8A5F44222A3A27D3003E2392 /* AnimationPresets.swift */,
 			);
 			path = TrySpringAnimation;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 				8ABB06512A38FFA0007A98EC /* ViewController.swift in Sources */,
 				8ABB064D2A38FF9F007A98EC /* AppDelegate.swift in Sources */,
 				8ABB064F2A38FF9F007A98EC /* SceneDelegate.swift in Sources */,
+				8A5F44232A3A27D3003E2392 /* AnimationPresets.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
